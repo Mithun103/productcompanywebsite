@@ -337,13 +337,13 @@ contactus.html
 </html>
 ```
 ## OUTPUT:
-###/home
+### /home:
 ![Screenshot from 2023-01-29 12-42-11](https://user-images.githubusercontent.com/118344695/215312982-22e69cda-db59-4858-9745-c21f1f9a56fc.png)
-###/products
+### /products
 ![Screenshot from 2023-01-29 13-08-43](https://user-images.githubusercontent.com/118344695/215313109-01c39e5d-0932-43c0-9536-7c5f1619216e.png)
-###/peoples
+### /peoples:
 ![Screenshot from 2023-01-29 13-21-33](https://user-images.githubusercontent.com/118344695/215313117-5a8cb274-4e0f-44b0-8834-bb92610f1221.png)
-###/contactus
+### /contactus:
 ![Screenshot from 2023-01-29 13-21-43](https://user-images.githubusercontent.com/118344695/215313150-9a2333fc-996a-4372-9c6b-05410e2caa49.png)
 
 ## Result:
