@@ -337,10 +337,12 @@ contactus.html
 </html>
 ```
 ## OUTPUT:
+![Screenshot from 2023-01-29 12-42-11](https://user-images.githubusercontent.com/118344695/215312982-22e69cda-db59-4858-9745-c21f1f9a56fc.png)
+ 
+
 
 
 ### Home Page:
-
 
 ## Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
